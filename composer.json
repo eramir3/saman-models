@@ -1,0 +1,18 @@
+{
+    "name": "eramir3/saman-models",
+    "type": "library",
+    "description": "Your package description goes here",
+    "homepage": "https://yourcompany.com",
+    "authors": [
+        {
+            "name": "Esteban Ramirez",
+            "email": "esteban@gmail.com",
+            "role": "<author-role>"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Saman\\SharedModels\\": "src"
+        }
+    }
+}
